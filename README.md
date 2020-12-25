@@ -38,12 +38,14 @@ Remove (sell) a product and update the inventory accordingly
 3) yarn.
 
 ### Steps to run the application locally
-1) Start the Mongo DB server 
-2) Open a terminal window and navigate to the backend folder of the application. 
-3) Run npm install followed by npm start to start the backend application. 
-4) Open another terminal window and navigate to the frontend folder of the application. 
-5) Run yarn install and yarn start to start the front end application. 
-6) Open http://localhost:3004/ to view the application. 
+1) Clone the repository.
+2) Start the Mongo DB server. 
+3) Open a terminal window and navigate to the backend folder of the application. 
+4) Run npm install followed by npm start to start the backend application. 
+5) Open another terminal window and navigate to the frontend folder of the application. 
+6) Run yarn install and yarn start to start the front end application. 
+7) Open http://localhost:3004/ to view the application. 
+8) Upload the sample inventory.json and product.json by clicking on manage inventory in the header. 
 
 
 
